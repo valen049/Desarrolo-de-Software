@@ -1,10 +1,11 @@
-# Trabajo Práctico HTML - Desarrollo de Software 2024 <br/> Zalazar Valentín | 3K10
+# 🌐 Proyecto HTML - Desarrollo de Software 2024
+Desarrollado por: Zalazar Valentín | Curso: 3K10
 
-### Deploy
-
+🚀 ¡Visita mi sitio en vivo!
 [Mi página web](https://valen049.github.io/Desarrolo-de-Software/)
 
-### Secciones
+### 📂 Estructura del Proyecto
+
 <ol>
 <li>Header + Nav <br/></li>
 <li>Estructura Básica del Documento HTML <br/></li>
